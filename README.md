@@ -17,3 +17,20 @@ Make sure Python is installed, then run:
 
 ```bash
 python calculator.py
+
+## Usage
+add
+subtract
+multiply
+divide
+
+Enter operation (or 'quit'): add
+Enter first number: 10
+Enter second number: 5
+
+Example:
+Enter operation (or 'quit'): add
+Enter first number: 10
+Enter second number: 5
+
+Result: 15
