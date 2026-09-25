@@ -24,12 +24,11 @@ subtract
 multiply
 divide
 
+##Example
 Enter operation (or 'quit'): add
 Enter first number: 10
 Enter second number: 5
 
-Example:
-Enter operation (or 'quit'): add
 Enter first number: 10
 Enter second number: 5
 
